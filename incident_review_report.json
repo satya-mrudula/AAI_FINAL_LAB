@@ -1,0 +1,24 @@
+{
+    "video_file": "12901485-uhd_3840_2160_24fps.mp4",
+    "video_duration_seconds": 11.59,
+    "frames_extracted": 6,
+    "total_incidents": 1,
+    "incidents": [
+        {
+            "incident_detected": true,
+            "incident_type": "Vehicle Collision",
+            "severity": "High",
+            "description": "A red tractor-trailer semi-truck has been involved in a severe crash on a multi-lane highway, causing heavy front-end damage, a large fluid spill across active lanes, and detached debris on the road.",
+            "objects_involved": [
+                "semi-truck",
+                "fluid spill",
+                "debris",
+                "highway"
+            ],
+            "recommended_action": "Dispatch emergency responders, police traffic control, and hazardous spill cleanup crews immediately to close affected lanes and secure the crash site.",
+            "confidence": 0.98,
+            "timestamp_seconds": 0.0,
+            "evidence_frame": "incident_evidence/frame_0s.jpg"
+        }
+    ]
+}
